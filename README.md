@@ -14,6 +14,7 @@
   Database เอาคำสั่ง SQL ไปรัน เพื่อสร้างฐานข้อมูล
   htdocs แก้ไข /common/server.php แก้ hostname, username, password ให้ตรงหน้างาน
   วิธีรัน หลังแก้ server.php แล้ว เอาทุกอย่างใน Folder htdocs ลง root directories ของ web server แล้วเข้าไปที่ hostname นั้นได้เลย
+  อย่าลืมเพิ่ม API KEY ของ youtube ใน song และ google map ใน event
 
 
 
