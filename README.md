@@ -1,14 +1,26 @@
 # Thai-idol-Artist-Website
 เว็บไซต์ MyIdolNiverse เป็นช่องทางในการติดตามผลงานศิลปินได้สะดวกและรวดเร็ว ทั้งผลงานเพลง การไลฟ์สด และกิจกรรมต่าง ๆ รวมถึงยังเป็นช่องทางที่สามารถให้คนที่ชื่นชอบศิลปินคนเดียวกันมาร่วมแสดงความคิดเห็นกันได้
 
-![image](https://github.com/user-attachments/assets/cb5d7b81-a59c-4910-be84-479211525c03)
-![image](https://github.com/user-attachments/assets/8ebc8bb9-0769-4ff8-8330-716abeee6deb)
-![image](https://github.com/user-attachments/assets/57a13504-2b7a-43cb-a505-7d4d9229b976)
-![image](https://github.com/user-attachments/assets/6e65fda8-af34-4cb5-92a0-07e998340a6b)
-![image](https://github.com/user-attachments/assets/9d2daf52-934d-42d1-be0c-a39abe352d68)
-![image](https://github.com/user-attachments/assets/0f8bc7fe-421d-41d2-abb0-1788c5d20bf9)
-![image](https://github.com/user-attachments/assets/9ba8b56b-6c81-47ef-bd57-ab604a02b147)
-![image](https://github.com/user-attachments/assets/694559c7-1c8c-4b7e-b83d-8bda931ae98e)
+![image](https://github.com/user-attachments/assets/859daf62-0014-4d0e-ba95-a3b28cc7afda)
+![image](https://github.com/user-attachments/assets/5bebaff2-b75f-44a6-b0ea-a402d8f63c4c)
+![image](https://github.com/user-attachments/assets/2ef51ebe-a03c-4ac0-9fe0-1ea10fe2dbce)
+![image](https://github.com/user-attachments/assets/772b7e38-d489-4ac8-96a3-72fe9f377c23)
+![image](https://github.com/user-attachments/assets/0a5be789-0b76-480f-9592-8da49a759ece)
+![image](https://github.com/user-attachments/assets/c50bda14-7589-488e-821a-25981a56338a)
+![image](https://github.com/user-attachments/assets/dba3cf4a-00ff-4b4a-b00d-babb1d2b7c5b)
+![image](https://github.com/user-attachments/assets/73a5fc9d-2f0e-49f8-8e94-462399b250af)
+![image](https://github.com/user-attachments/assets/1f5f3b02-0a87-4881-be01-7a602785002a)
+![image](https://github.com/user-attachments/assets/f20bfb7c-7003-42d5-a84a-0d350989507d)
+![image](https://github.com/user-attachments/assets/ce9c993d-4c69-488d-9949-885e93ff8153)
+
+
+
+
+
+
+
+
+
 
 หมายเหตุ
   Database เอาคำสั่ง SQL ไปรัน เพื่อสร้างฐานข้อมูล
