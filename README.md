@@ -14,20 +14,16 @@
 ![image](https://github.com/user-attachments/assets/ce9c993d-4c69-488d-9949-885e93ff8153)
 
 
-
-
-
-
-
-
-
-
 หมายเหตุ
   Database เอาคำสั่ง SQL ไปรัน เพื่อสร้างฐานข้อมูล
   htdocs แก้ไข /common/server.php แก้ hostname, username, password ให้ตรงหน้างาน
   วิธีรัน หลังแก้ server.php แล้ว เอาทุกอย่างใน Folder htdocs ลง root directories ของ web server แล้วเข้าไปที่ hostname นั้นได้เลย
   อย่าลืมเพิ่ม API KEY ของ youtube ใน song และ google map ใน event
 
+โปรเจคกลุ่ม 4 คน ฉันมีหน้าที่ ดังนี้
+- พัฒนาระบบพูดคุยในหน้า song
+- พัฒนาฟอร์มแจ้งข้อมูลการไลฟ์พร้อมเก็บลงฐานข้อมูล
+- พัฒนาหน้า live พร้อมนำข้อมูลจากฐานข้อมูลมาแสดง
 
 
 
